@@ -6,8 +6,8 @@ In this project I am making a PID controlled Torque Screwdriver.
 
 You can learn more with the following readme files:
 
-[./software/README.md](software readme)
+[software readme](./software/README.md)
 
-[./hardware/README.md](hardware readme)
+[hardware readme](./hardware/README.md)
 
-[./electronics/README.md](electronics readme)
+[electronics readme](./electronics/README.md)
