@@ -21,3 +21,4 @@ This directory is also an obsidian vault; I would recommend to open it in obsidi
 ### Credits
 - [KiCAD gitignore template](https://github.com/github/gitignore/blob/main/KiCad.gitignore)
 - [Obsidian Vault gitignore template](https://github.com/trustedsec/Obsidian-Vault-Structure/blob/main/.gitignore)
+- [FreeCAD gitignore template](https://github.com/FreeCAD/FreeCAD-library/blob/master/.gitignore)
