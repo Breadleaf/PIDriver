@@ -1,0 +1,3 @@
+- [KiCad](https://www.kicad.org/)
+- [FreeCAD](https://www.freecad.org/)
+- [Obsidian](https://obsidian.md/)
