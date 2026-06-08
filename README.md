@@ -17,3 +17,7 @@ This directory is also an obsidian vault; I would recommend to open it in obsidi
 - [software readme](./software/README.md)
 - [hardware readme](./hardware/README.md)
 - [electronics readme](./electronics/README.md)
+
+### Credits
+- [KiCAD gitignore template](https://github.com/github/gitignore/blob/main/KiCad.gitignore)
+- [Obsidian Vault gitignore template](https://github.com/trustedsec/Obsidian-Vault-Structure/blob/main/.gitignore)
