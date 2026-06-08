@@ -10,7 +10,7 @@ This directory is also an obsidian vault; I would recommend to open it in obsidi
 
 ### Research
 - [domain research](./notes/Domain_Research.md)
-- [supply chain research](Supply_Chain_Research.md)
+- [supply chain research](./notes/Supply_Chain_Research.md)
 - [software used](./notes/Software_Used.md)
 
 ### Implementations
