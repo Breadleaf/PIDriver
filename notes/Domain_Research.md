@@ -1,3 +1,15 @@
+## Courses
+- [MIT OCW -- Mechatronics 2.737](https://ocw.mit.edu/courses/2-737-mechatronics-fall-2014/)
+- [MIT OCW -- Feedback Systems 6.302](https://ocw.mit.edu/courses/6-302-feedback-systems-spring-2007/)
+- [MIT OCW -- Circuits and Electronics 6.002](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)
+
+## Design Principles & CAD
+- [YouTube -- Stop Designing Like a Beginner | 6 Advanced DFMA Tips](https://youtu.be/mFsWAY8dLYQ?si=Qx48zzihlMSb_aHh)
+- [SendCutSend -- How to Take Your CAD Files from Design to Production](https://sendcutsend.com/blog/take-your-cad-files-from-design-to-production/)
+
+## Misc. Electrical Engineering Knowledge
+- [YouTube -- What is a slip ring?](https://youtu.be/dKRbTwEVEsQ?si=cEDlaPP35ESqSWD1)
+- [YouTube -- Working of Strain Gauges and their Applications](https://youtu.be/Mts5Cr_BNCg?si=H8EyCVXaVJBbcCZJ)
 
 ## PID & Control Theory
 - [YouTube -- PID Math Demystified](https://youtu.be/JEpWlTl95Tw?si=0eLh-3_hvwQYUkA-)
@@ -15,22 +27,3 @@
 ## Physics, MechE, Math Refreshers
 - [YouTube -- Understanding Torsion](https://youtu.be/1YTKedLQOa0?si=NFIoT7PMmFtqMWMg)
 - [Purdue -- Torsion: shear stress/strain and twist angle](https://www.purdue.edu/freeform/me323/animations-and-demonstrations/torsion-shear-stress-strain-and-twist-angle/)
-
-## Misc. Electrical Engineering Knowledge
-- [YouTube -- What is a slip ring?](https://youtu.be/dKRbTwEVEsQ?si=cEDlaPP35ESqSWD1)
-- [YouTube -- Working of Strain Gauges and their Applications](https://youtu.be/Mts5Cr_BNCg?si=H8EyCVXaVJBbcCZJ)
-
-## Design Principles & CAD
-- [YouTube -- Stop Designing Like a Beginner | 6 Advanced DFMA Tips](https://youtu.be/mFsWAY8dLYQ?si=Qx48zzihlMSb_aHh)
-- [SendCutSend -- How to Take Your CAD Files from Design to Production](https://sendcutsend.com/blog/take-your-cad-files-from-design-to-production/)
-
-## Manufacturers
-- [jlccnc](https://jlccnc.com)
-- [jlcpcb](https://jlcpcb.com)
-- [SendCutSend](https://app.sendcutsend.com/customer)
-
-## Parts Distributors
-- [DigiKey](https://www.digikey.com/)
-- [Mouser](https://www.mouser.com/)
-- [Amazon](https://www.amazon.com/)
-- [McMaster Carr](https://www.mcmaster.com/)

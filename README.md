@@ -9,8 +9,10 @@ This directory is also an obsidian vault; I would recommend to open it in obsidi
 ## Table of Contents
 
 ### Research
-- [resources](./notes/Resources.md)
-- [software used](Software_Used.md)
+- [domain research](./notes/Domain_Research.md)
+- [supply chain research](Supply_Chain_Research.md)
+- [software used](./notes/Software_Used.md)
+
 ### Implementations
 - [software readme](./software/README.md)
 - [hardware readme](./hardware/README.md)
