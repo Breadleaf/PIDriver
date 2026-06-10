@@ -10,6 +10,7 @@
 ## Misc. Electrical Engineering Knowledge
 - [YouTube -- What is a slip ring?](https://youtu.be/dKRbTwEVEsQ?si=cEDlaPP35ESqSWD1)
 - [YouTube -- Working of Strain Gauges and their Applications](https://youtu.be/Mts5Cr_BNCg?si=H8EyCVXaVJBbcCZJ)
+- [Reddit -- Variable current](https://www.reddit.com/r/arduino/comments/vtlw65/variable_current/)
 
 ## PID & Control Theory
 - [YouTube -- PID Math Demystified](https://youtu.be/JEpWlTl95Tw?si=0eLh-3_hvwQYUkA-)
